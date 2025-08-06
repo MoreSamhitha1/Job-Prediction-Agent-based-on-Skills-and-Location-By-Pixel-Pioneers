@@ -47,7 +47,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 *Authors*
 
-- https://github.com/your-MoreSamhitha1
+- https://github.com/MoreSamhitha1
 
 *Acknowledgments*
 
